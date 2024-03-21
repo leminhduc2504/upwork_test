@@ -1,0 +1,12 @@
+.primary-btn {
+  background-color: #ffce22;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400;
+  line-height: 18.2px;
+  font-size: 14px;
+  color: #1f2128;
+}
+
+.primary-btn:active {
+  background-color: #ffd84d;
+}
